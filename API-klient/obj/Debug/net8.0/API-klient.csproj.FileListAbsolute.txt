@@ -1,0 +1,14 @@
+c:\Users\axel.grufman\Documents\programering\API-klient\API-klient\bin\Debug\net8.0\API-klient.exe
+c:\Users\axel.grufman\Documents\programering\API-klient\API-klient\bin\Debug\net8.0\API-klient.deps.json
+c:\Users\axel.grufman\Documents\programering\API-klient\API-klient\bin\Debug\net8.0\API-klient.runtimeconfig.json
+c:\Users\axel.grufman\Documents\programering\API-klient\API-klient\bin\Debug\net8.0\API-klient.dll
+c:\Users\axel.grufman\Documents\programering\API-klient\API-klient\bin\Debug\net8.0\API-klient.pdb
+c:\Users\axel.grufman\Documents\programering\API-klient\API-klient\obj\Debug\net8.0\API-klient.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\axel.grufman\Documents\programering\API-klient\API-klient\obj\Debug\net8.0\API-klient.AssemblyInfoInputs.cache
+c:\Users\axel.grufman\Documents\programering\API-klient\API-klient\obj\Debug\net8.0\API-klient.AssemblyInfo.cs
+c:\Users\axel.grufman\Documents\programering\API-klient\API-klient\obj\Debug\net8.0\API-klient.csproj.CoreCompileInputs.cache
+c:\Users\axel.grufman\Documents\programering\API-klient\API-klient\obj\Debug\net8.0\API-klient.dll
+c:\Users\axel.grufman\Documents\programering\API-klient\API-klient\obj\Debug\net8.0\refint\API-klient.dll
+c:\Users\axel.grufman\Documents\programering\API-klient\API-klient\obj\Debug\net8.0\API-klient.pdb
+c:\Users\axel.grufman\Documents\programering\API-klient\API-klient\obj\Debug\net8.0\API-klient.genruntimeconfig.cache
+c:\Users\axel.grufman\Documents\programering\API-klient\API-klient\obj\Debug\net8.0\ref\API-klient.dll
