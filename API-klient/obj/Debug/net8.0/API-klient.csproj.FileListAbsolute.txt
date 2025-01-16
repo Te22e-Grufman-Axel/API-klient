@@ -12,3 +12,4 @@ c:\Users\axel.grufman\Documents\programering\API-klient\API-klient\obj\Debug\net
 c:\Users\axel.grufman\Documents\programering\API-klient\API-klient\obj\Debug\net8.0\API-klient.pdb
 c:\Users\axel.grufman\Documents\programering\API-klient\API-klient\obj\Debug\net8.0\API-klient.genruntimeconfig.cache
 c:\Users\axel.grufman\Documents\programering\API-klient\API-klient\obj\Debug\net8.0\ref\API-klient.dll
+c:\Users\axel.grufman\Documents\programering\API-klient\API-klient\obj\Debug\net8.0\API-klient.sourcelink.json
