@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\axel.grufman\\Documents\\programering\\API-klient\\API-klient\\API-klient.csproj": {}
+    "c:\\Users\\axel.grufman\\Documents\\programering\\API-klient\\API-klient\\API-klient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\axel.grufman\\Documents\\programering\\API-klient\\API-klient\\API-klient.csproj": {
+    "c:\\Users\\axel.grufman\\Documents\\programering\\API-klient\\API-klient\\API-klient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\axel.grufman\\Documents\\programering\\API-klient\\API-klient\\API-klient.csproj",
+        "projectUniqueName": "c:\\Users\\axel.grufman\\Documents\\programering\\API-klient\\API-klient\\API-klient.csproj",
         "projectName": "API-klient",
-        "projectPath": "C:\\Users\\axel.grufman\\Documents\\programering\\API-klient\\API-klient\\API-klient.csproj",
+        "projectPath": "c:\\Users\\axel.grufman\\Documents\\programering\\API-klient\\API-klient\\API-klient.csproj",
         "packagesPath": "C:\\Users\\axel.grufman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\axel.grufman\\Documents\\programering\\API-klient\\API-klient\\obj\\",
+        "outputPath": "c:\\Users\\axel.grufman\\Documents\\programering\\API-klient\\API-klient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
